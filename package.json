@@ -1,0 +1,20 @@
+{
+  "name": "comp-3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp-3104/comp-3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp-3104/comp-3104/issues"
+  },
+  "homepage": "https://github.com/comp-3104/comp-3104#readme"
+}
